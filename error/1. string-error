@@ -1,0 +1,9 @@
+print("Hello World!)
+
+Error: string not closed with double quotes got below error
+
+
+File "main.py", line 1
+    print("Hello World!)
+          ^
+SyntaxError: unterminated string literal (detected at line 1)
